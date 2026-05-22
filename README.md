@@ -45,8 +45,8 @@ All features are computed per team-season, then expressed as **Team A − Team B
 
 | Metric | Value |
 |---|---|
-| CV Brier Score (5-fold) | Reported in notebook output |
-| 2025 Holdout Brier Score | Reported in notebook output |
+| CV Brier Score (5-fold) | 0.1485 |
+| 2025 Holdout Brier Score | 0.1654 |
 | Competition result | 🥈 Silver Medal — Top 5% |
 
 The notebook includes a **strict holdout backtest**: the model is re-trained on all seasons before 2025 and evaluated on 2025 tournament games only, simulating real competition conditions.
