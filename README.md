@@ -1,6 +1,6 @@
 # NCAA March Madness Prediction
 
-🥈 **Silver Medal — Top 5%** | [March Machine Learning Mania (Kaggle)](https://www.kaggle.com/competitions/march-machine-learning-mania-2025)
+🥈 **Silver Medal — Top 5%** | [March Machine Learning Mania (Kaggle)](https://www.kaggle.com/competitions/march-machine-learning-mania-2026)
 
 Predicts win probabilities for every possible NCAA tournament matchup (men's + women's). Evaluated on Brier score — a proper scoring rule that rewards well-calibrated probabilities, not just picking the right winner.
 
